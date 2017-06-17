@@ -3,11 +3,11 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "79A2m2Zs96hg/3xtcsOBzkpPAKM=",
+			"checksumSHA1": "lus29xeARKSKWgpA5UPegnYCSEI=",
 			"path": "github.com/urfave/cli",
-			"revision": "d70f47eeca3afd795160003bc6e28b001d60c67c",
-			"revisionTime": "2017-05-06T04:25:29Z"
+			"revision": "cf33a9befefdd6c6ea1a236ab6d546e797a62cbf",
+			"revisionTime": "2017-06-12T00:00:38Z"
 		}
 	],
-	"rootPath": "github.com/Telmo/fpm"
+	"rootPath": "github.com/telmo/fpm"
 }
